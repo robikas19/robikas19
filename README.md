@@ -1,4 +1,4 @@
-![Programming Banner](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)
+![Programming Banner]([https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg](https://img3.stockfresh.com/files/a/anna_leni/m/17/9160868_stock-vector-programming-banner-concept.jpg))
 # 💫 About Me:
 🔭 I’m currently working on **Raki AI**, a voice-powered AI assistant for Rakiboy OS (my custom Linux distro).  
 👯 I’m looking to collaborate on **AI tools, secure communication platforms, and OS customization projects**.  
