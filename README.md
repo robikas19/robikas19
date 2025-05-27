@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate on **AI tools, secure communication platforms, and OS customization projects**.  
 🤝 I’m looking for help with **deep learning integration and optimizing Linux performance for AI workflows**.  
 🌱 I’m currently learning **advanced Python, OS development, and backend security protocols**.  
-💬 Ask me about **Linux, Flask, voice-controlled AI, or creating secure platforms from scratch**.  
+💬 Ask me about **frontend and backend,Linux, Flask, voice-controlled AI, or creating secure platforms from scratch**.  
 ⚡ Fun fact: I named my OS "Rakiboy" after my friends' initials and Ethiopia’s first coffee — because it’s the first thing to "wake up" your computer!
 
 ---
