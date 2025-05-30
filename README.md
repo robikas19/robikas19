@@ -1,4 +1,8 @@
 ![Programming Banner](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
+# 🌍 See my Portofolio :
+  [click here](https://robikas.netlify.app/)
+
+  ---
 # 💫 About Me:
 🔭 I’m currently working on **Raki AI**, a voice-powered AI assistant for Rakiboy OS (my custom Linux distro).  
 👯 I’m looking to collaborate on **AI tools, secure communication platforms, and OS customization projects**.  
