@@ -1,4 +1,4 @@
-![Programming Banner](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
+![Programming Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 # 🌍 See my Portofolio :
   [click here](https://robikas.netlify.app/)
 
